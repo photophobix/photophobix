@@ -1,4 +1,8 @@
-## Hi there 👋
+welcome to my git !
+
+currently a gdd student @ rit
+
+i'm learning about half life mapping modelling and modding at the moment, its very fun
 
 <!--
 **photophobix/photophobix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
